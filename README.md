@@ -14,7 +14,7 @@ Echosort is a Data Science project aimed at improving the global recycling indus
 #### **Usage**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Echo-Sort.git
+   git clone https://github.com/BenBashi/Echo-Sort-Arduino.git
    ```
 2. Follow the hardware setup guide in `hardware_setup.md` to configure the Arduino and robotic arm.
 3. Use the provided scripts to deploy the trained model and start the automation process.
